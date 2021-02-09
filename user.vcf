@@ -7,7 +7,7 @@ ORG:Quantei;
 TITLE:Territory Sales Manager, ANZ
 EMAIL;type=INTERNET;type=WORK;type=pref:stephan.mailliere@quantei.com
 TEL;type=WORK;type=VOICE:+61 404 356 341
-item1.ADR;type=WORK;type=pref:;;727 Collins Street Docklands, Victoria, 3008, Australia
+item1.ADR;type=WORK;type=pref:;;727 Collins Street, Docklands, Victoria, Australia
 item1.X-ABADR:sg
 item2.URL;type=pref:quantei.com
 item2.X-ABLabel:_$!<HomePage>!$_
